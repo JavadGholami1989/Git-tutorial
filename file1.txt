@@ -5,6 +5,5 @@ rgbhdfvdrf
 
 add new line
 ....
-ifjdslkerö ogier op
 x = 2 + 2
 y = x * 3
